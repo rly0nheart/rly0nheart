@@ -14,7 +14,7 @@ class Person:
     def __init__(self):
         self.name = "Richard Mwewa"
         self.pronouns = ["He", "Him", "His"]
-        self.role = "Python developer"
+        self.occupation = "Python developer"
         self.languages_spoken = ["English", "ichiBemba", "chiNyanja"]
         
     def say_hi(self):
