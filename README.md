@@ -1,7 +1,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rly0nheart?style=social)
 ![Discord](https://img.shields.io/badge/Discord-rly0nheart%232779-blue?style=social&logo=discord)
 ![Telegram](https://img.shields.io/badge/Telegram-@rly0nheart-blue?style=social&logo=telegram)
-![discord](https://img.shields.io/badge/Facebook-@rly0nheart-1DA1F1?style=social&logo=facebook)
 # Hi there 👋🏾🤓
 
 
