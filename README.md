@@ -1,11 +1,6 @@
-[![Check out rly0nheart's profile on stardev.io](https://stardev.io/developers/rly0nheart/badge/languages/country.svg)](https://stardev.io/developers/rly0nheart)
-
-## Hi there 👋🏾🤓
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class Person:
 
@@ -16,7 +11,7 @@ class Person:
         self.languages_spoken = ["English", "ichiBemba", "chiNyanja"]
         
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work useful.")
+        print("Hi! Thanks for dropping by, hope you find some of my work useful.")
 
 
 me = Person()
