@@ -25,8 +25,7 @@ me = Person()
 me.say_hi()
 ```
 
-## About me
-You can read about me [here](https://about.me/rly0nheart)
+[![Check out rly0nheart's profile on stardev.io](https://stardev.io/developers/rly0nheart/badge/languages/global.svg)](https://stardev.io/developers/rly0nheart)
 
 ## Donations
 If you enjoy my work and would like to support me, you can use the button below to buy me a coffee.☕👌🏾😊
