@@ -7,11 +7,11 @@ class Person:
     def __init__(self):
         self.name = "Richard Mwewa"
         self.pronouns = ["He", "Him", "His"]
-        self.occupation = "Python developer"
+        self.occupation = "Computer programmer"
         self.languages_spoken = ["English", "ichiBemba", "chiNyanja"]
         
     def say_hi(self):
-        print("Hi! Thanks for dropping by, hope you find some of my work useful.")
+        print("Hello! Thanks for dropping by, hope you find some of my work useful.")
 
 
 me = Person()
