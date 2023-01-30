@@ -21,9 +21,8 @@ me.say_hi()
 ## Social
 ![Twitter Follow](https://img.shields.io/twitter/follow/rly0nheart?style=social)
 ![Discord](https://img.shields.io/badge/Discord-rly0nheart%232779-blue?style=social&logo=discord)
-![Telegram](https://img.shields.io/badge/Telegram-@rly0nheart-blue?style=social&logo=telegram)
 
-## Donations
+## Support
 If you enjoy my work and would like to support me, you can use the button below to buy me a coffee.☕👌🏾😊
 
 <a href="https://www.buymeacoffee.com/189381184" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
