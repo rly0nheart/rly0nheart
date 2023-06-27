@@ -21,5 +21,3 @@ me = Person(
 
 me.greet()
 ```
-
-<a rel="me" href="https://infosec.exchange/@rly0nheart">Mastodon</a>
