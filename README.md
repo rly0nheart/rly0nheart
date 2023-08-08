@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 class Person:
-    def __init__(self, name, pronouns, occupation, languages_spoken):
+    def __init__(self, name: str, pronouns: list, occupation: str, languages_spoken: list):
         self.name = name
         self.pronouns = pronouns
         self.occupation = occupation
