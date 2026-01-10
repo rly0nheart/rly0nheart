@@ -4,7 +4,7 @@
 
 | Project                                                                                                                                                      | Visibility      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
-| [cerium](https://github.com/rly0nheart/cerium) <br/> A ls-like utility that is NOT trying to replace ls                                                           | `private`        |
+| [cerium](https://github.com/rly0nheart/cerium) <br/> Yet another ls-like util that is NOT trying to replace ls                                                           | `private`        |
 | [humanly](https://github.com/rly0nheart/humanly) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. | `public`         |
 | [knewkarma](https://github.com/rly0nheart/knewkarma) <br/> Zero-auth toolkit for Reddit data analysis.                                                            | `public archive` |
 | [octosuite](https://github.com/bellingcat/octosuite) <br/> TUI-based toolkit for GitHub data analysis.                                                            | `public`         |
