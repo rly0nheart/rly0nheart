@@ -1,5 +1,3 @@
-<p align="center"><a href="https://rly0nheart.com/">Blog</a> | <a href="https://bsky.app/profile/rly0nheart.com">Bluesky</a> | <a href="https://www.linkedin.com/in/rly0nheart/">LinkedIn</a> | <a href="https://rly0nheart.com/about/">About</a></p>
-
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
@@ -19,7 +17,7 @@
 - **[oxdork](https://github.com/rly0nheart/oxdork)**: Released [3.2.1](https://github.com/rly0nheart/oxdork/releases/tag/3.2.1) (January 01, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
-## Projects
+## Projects Showcase
 
 | Project                                                                                                                                                      | Visibility      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
