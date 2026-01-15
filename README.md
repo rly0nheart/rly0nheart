@@ -1,5 +1,10 @@
 <p align="center"><a href="https://rly0nheart.com/">Blog</a> | <a href="https://bsky.app/profile/rly0nheart.com">Bluesky</a> | <a href="https://www.linkedin.com/in/rly0nheart/">LinkedIn</a> | <a href="https://rly0nheart.com/about/">About</a></p>
 
+## Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Projects
 
 | Project                                                                                                                                                      | Visibility      |
