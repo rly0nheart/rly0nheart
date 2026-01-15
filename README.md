@@ -1,6 +1,6 @@
 <p align="center"><a href="https://rly0nheart.com/">Blog</a> | <a href="https://bsky.app/profile/rly0nheart.com">Bluesky</a> | <a href="https://www.linkedin.com/in/rly0nheart/">LinkedIn</a> | <a href="https://rly0nheart.com/about/">About</a></p>
 
-## Latest Posts
+## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
 - [I Taught Myself to Code on a Cracked Android Phone. Now I Can't Get Hired](https://rly0nheart.com/posts/life/i-taught-myself-to-code-on-a-cracked-android-phone-now-i-cant-get-hired/) - January 12, 2026
@@ -9,6 +9,10 @@
 - [Hello, Reader](https://rly0nheart.com/posts/introductions/hello-reader/) - December 19, 2025
 - [About](https://rly0nheart.com/about/) - January 01, 1
 <!-- BLOG-POSTS:END -->
+
+## Recent Activity
+<!-- GITHUB-ACTIVITY:START -->
+<!-- GITHUB-ACTIVITY:END -->
 
 ## Projects
 
