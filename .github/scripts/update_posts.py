@@ -14,7 +14,7 @@ README_PATH = "README.md"
 MAX_POSTS = 5
 MAX_ACTIVITY = 5
 GITHUB_USERNAME = "rly0nheart"
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Optional, improves rate limits
+GITHUB_TOKEN = os.getenv("GH_TOKEN")  # Optional, improves rate limits
 EXCLUDED_REPOS = ["rly0nheart"]  # Repos to exclude from activity feed
 
 # Markers to identify where to insert content
