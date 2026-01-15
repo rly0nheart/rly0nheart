@@ -27,7 +27,7 @@ jobs:
 
       - name: Update README with latest posts
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python .github/scripts/update_posts.py
 
       - name: Commit and push if changed
