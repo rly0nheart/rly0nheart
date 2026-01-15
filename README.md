@@ -12,7 +12,11 @@
 
 ## Recent Activity
 <!-- GITHUB-ACTIVITY:START -->
-*No recent activity*
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [889af5f](https://github.com/rly0nheart/pyahmia/commit/889af5f821c9120921b3ec85e92cadd1b0ffc30d) - Caching results (January 07, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [f729396](https://github.com/rly0nheart/pyahmia/commit/f7293963293cb669eca5fa7631a444b2c5c704b6) - Caching results (January 07, 2026)
+- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: Released [0.2.0](https://github.com/rly0nheart/updates-rs/releases/tag/0.2.0) (January 05, 2026)
+- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: [70e4a51](https://github.com/rly0nheart/updates-rs/commit/70e4a51724118c570bee493b0678462fff981b43) - Drop heavy dependencies (January 05, 2026)
+- **[oxdork](https://github.com/rly0nheart/oxdork)**: Released [3.2.1](https://github.com/rly0nheart/oxdork/releases/tag/3.2.1) (January 01, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects
