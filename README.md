@@ -12,6 +12,7 @@
 
 ## Recent Activity
 <!-- GITHUB-ACTIVITY:START -->
+*No recent activity*
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects
