@@ -2,8 +2,8 @@
 
 ## Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
 
 ## Projects
 
