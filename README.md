@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!-- GITHUB-ACTIVITY:START -->
+- **[actual](https://github.com/rly0nheart/actual)**: [f4fdb79](https://github.com/rly0nheart/actual/commit/f4fdb791006c563ca285290be759d3853e38e06e) - minor: Final push for public release: Updates README (January 18, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.10.0](https://github.com/rly0nheart/pyahmia/releases/tag/0.10.0) (January 18, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [b74a321](https://github.com/rly0nheart/pyahmia/commit/b74a321f2058c6df31ab94cc80b06bdda9b46f94) - refactor: Drop rich-click in favour of... argparse :) (January 18, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [889af5f](https://github.com/rly0nheart/pyahmia/commit/889af5f821c9120921b3ec85e92cadd1b0ffc30d) - Caching results (January 07, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [f729396](https://github.com/rly0nheart/pyahmia/commit/f7293963293cb669eca5fa7631a444b2c5c704b6) - Caching results (January 07, 2026)
-- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: Released [0.2.0](https://github.com/rly0nheart/updates-rs/releases/tag/0.2.0) (January 05, 2026)
-- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: [70e4a51](https://github.com/rly0nheart/updates-rs/commit/70e4a51724118c570bee493b0678462fff981b43) - Drop heavy dependencies (January 05, 2026)
+- **[actual](https://github.com/rly0nheart/actual)**: [bd378e4](https://github.com/rly0nheart/actual/commit/bd378e4bdbdb4ade265eb457ceb3b7dca56d0677) - refactor: proper separation of concern (January 17, 2026)
+- **[actual](https://github.com/rly0nheart/actual)**: [269f489](https://github.com/rly0nheart/actual/commit/269f4894d8305f3a4fb2cb5bbcfe4db39c620161) - refactor: Group files into dir modules (January 17, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
