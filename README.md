@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [0.1.1](https://github.com/rly0nheart/cerium/releases/tag/0.1.1) (January 26, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [5ecabc9](https://github.com/rly0nheart/cerium/commit/5ecabc9acd7d686c711c5d8a6af9b9a21c86f801) - Merge pull request 'fix: turns out immutable release meant that I cant reuse a version tag even if it's deleted' (#35) from dev into master (January 26, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [909ec35](https://github.com/rly0nheart/cerium/commit/909ec355dd1e55995dacc52857860e73f90f6bfa) - Merge branch 'master' into dev (January 26, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [c933514](https://github.com/rly0nheart/cerium/commit/c933514974e13d98ea88ef0417577fd9b5cd73af) - fix: turns out immutable release meant that I cant reuse a version tag even if it's deleted (January 26, 2026)
 - **[actual](https://github.com/rly0nheart/actual)**: [f4fdb79](https://github.com/rly0nheart/actual/commit/f4fdb791006c563ca285290be759d3853e38e06e) - minor: Final push for public release: Updates README (January 18, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [b74a321](https://github.com/rly0nheart/pyahmia/commit/b74a321f2058c6df31ab94cc80b06bdda9b46f94) - refactor: Drop rich-click in favour of... argparse :) (January 18, 2026)
-- **[actual](https://github.com/rly0nheart/actual)**: [bd378e4](https://github.com/rly0nheart/actual/commit/bd378e4bdbdb4ade265eb457ceb3b7dca56d0677) - refactor: proper separation of concern (January 17, 2026)
-- **[actual](https://github.com/rly0nheart/actual)**: [269f489](https://github.com/rly0nheart/actual/commit/269f4894d8305f3a4fb2cb5bbcfe4db39c620161) - refactor: Group files into dir modules (January 17, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [889af5f](https://github.com/rly0nheart/pyahmia/commit/889af5f821c9120921b3ec85e92cadd1b0ffc30d) - Caching results (January 07, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
