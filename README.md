@@ -9,6 +9,7 @@
 <!-- BLOG-POSTS:END -->
 
 ## Recent Activity
+
 <!-- GITHUB-ACTIVITY:START -->
 - **[actual](https://github.com/rly0nheart/actual)**: [f4fdb79](https://github.com/rly0nheart/actual/commit/f4fdb791006c563ca285290be759d3853e38e06e) - minor: Final push for public release: Updates README (January 18, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [b74a321](https://github.com/rly0nheart/pyahmia/commit/b74a321f2058c6df31ab94cc80b06bdda9b46f94) - refactor: Drop rich-click in favour of... argparse :) (January 18, 2026)
@@ -18,15 +19,14 @@
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
-
-| Project                                                                                                                                                      | Visibility      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
-| [cerium](https://github.com/rly0nheart/cerium) <br/> Yet another ls-like util that is NOT trying to replace ls                                                           | `private`        |
-| [actual](https://github.com/rly0nheart/actual) <br/> File carving tool for forensic image recovery.                                                                                          | `public` |
-| [humanly](https://github.com/rly0nheart/humanly) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. | `public`         |
-| [knewkarma](https://github.com/rly0nheart/knewkarma) <br/> Zero-auth toolkit for Reddit data analysis.                                                            | `public archive` |
-| [octosuite](https://github.com/bellingcat/octosuite) <br/> TUI-based toolkit for GitHub data analysis.                                                            | `public`         |
-| [pyahmia](https://github.com/rly0nheart/pyahmia) <br/> Search hidden services on the Tor network.                                                                 | `public`         |
-| [sandra](https://github.com/rly0nheart/sandra) <br/> An SSE-powered Azuracast Radio Player.                                                                      | `private`        |
-| [searchcode-python](https://github.com/rly0nheart/searchcode-python)<br/> Python SDK and CLI utility for searchcode.com.                                          | `public`         |
-| [updates-rs](https://github.com/rly0nheart/updates-rs/) <br/> A Rust library that checks for crate updates.                                                       | `public`         |
+| Project                                                                                                                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [actual](https://github.com/rly0nheart/actual) <br/> File carving tool for forensic image recovery.                                                                |
+| [cerium](https://github.com/rly0nheart/cerium) <br/> Yet, another ls-like util that is not trying to replace ls.                                                    |
+| [humanly](https://github.com/rly0nheart/humanly) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. |
+| [knewkarma](https://github.com/rly0nheart/knewkarma) <br/> Zero-auth toolkit for Reddit data analysis.                                                             |
+| [octosuite](https://github.com/bellingcat/octosuite) <br/> TUI-based toolkit for GitHub data analysis.                                                             |
+| [pyahmia](https://github.com/rly0nheart/pyahmia) <br/> Search hidden services on the Tor network.                                                                  |
+| [sandra](https://github.com/rly0nheart/sandra) <br/> An SSE-powered Azuracast Radio Player.                                                                        |
+| [searchcode-python](https://github.com/rly0nheart/searchcode-python)<br/> Python SDK and CLI utility for searchcode.com.                                           |
+| [updates-rs](https://github.com/rly0nheart/updates-rs/) <br/> A Rust library that checks for crate updates.                                                        |
