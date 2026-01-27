@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.4](https://github.com/rly0nheart/cerium/releases/tag/0.1.4) (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [9808da8](https://github.com/rly0nheart/cerium/commit/9808da8e37a03d83dffb68a5e52f3caa45291740) - Merge pull request #7 from rly0nheart/dev (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [9846703](https://github.com/rly0nheart/cerium/commit/9846703c6f60b317ff68d702ba13cabbac78f759) - Merge branch 'master' into dev (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [c2ffb75](https://github.com/rly0nheart/cerium/commit/c2ffb75855b2bb797fbd14bc86f3470d5de108b3) - refactor(workflow): Update workflow to get release notes from the CHANGELOG.md file (January 27, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [Release 0.1.3](https://github.com/rly0nheart/cerium/releases/tag/0.1.3) (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [51956f1](https://github.com/rly0nheart/cerium/commit/51956f18d1a87c67ebf00f2ae8a3448de9da56bd) - Merge pull request #6 from rly0nheart/dev (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [61a1761](https://github.com/rly0nheart/cerium/commit/61a1761bbff34b89d6bbac3e6822380caef9abbe) - fix: THIS should fix the workflow (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [6dfe038](https://github.com/rly0nheart/cerium/commit/6dfe03852cafd5b99e6430b7db772c7fd6f95902) - Merge pull request #5 from rly0nheart/dev (January 27, 2026)
-- **[actual](https://github.com/rly0nheart/actual)**: [f4fdb79](https://github.com/rly0nheart/actual/commit/f4fdb791006c563ca285290be759d3853e38e06e) - minor: Final push for public release: Updates README (January 18, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
