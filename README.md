@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.5](https://github.com/rly0nheart/cerium/releases/tag/0.1.5) (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [0462af2](https://github.com/rly0nheart/cerium/commit/0462af2f5a03de972348fd113cb658084aca281d) - Merge pull request #8 from rly0nheart/dev (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [88c928b](https://github.com/rly0nheart/cerium/commit/88c928b65c9d1375383faf64b32970d8b3b52bc2) - Merge branch 'master' into dev (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [09ca7f2](https://github.com/rly0nheart/cerium/commit/09ca7f2b1904b92032035570646a3ec713e6ad6a) - docs: Minor update in README.md and regenerated source map (January 27, 2026)
 - **[updates-rs](https://github.com/rly0nheart/updates-rs)**: Released [v0.2.1](https://github.com/rly0nheart/updates-rs/releases/tag/0.2.1) (January 27, 2026)
-- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: [689afb8](https://github.com/rly0nheart/updates-rs/commit/689afb82c5681403a5f1e544749c7e2613b87f9f) - chore: update Cargo.lock before publish (January 27, 2026)
-- **[humanly](https://github.com/rly0nheart/humanly)**: Released [v0.1.3](https://github.com/rly0nheart/humanly/releases/tag/0.1.3) (January 27, 2026)
-- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: [783ad0e](https://github.com/rly0nheart/updates-rs/commit/783ad0eb123962663e3fb751f75b077b11c79f32) - chore: Add CHANGELOG.md and update publish workflow (January 27, 2026)
-- **[humanly](https://github.com/rly0nheart/humanly)**: [daa8f75](https://github.com/rly0nheart/humanly/commit/daa8f7551e94be8622f5cbd1eb6f52a0c35c1e48) - chore: Add CHANGELOG.md and update publish workflow (January 27, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
