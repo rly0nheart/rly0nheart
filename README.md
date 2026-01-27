@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.4](https://github.com/rly0nheart/cerium/releases/tag/0.1.4) (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [9808da8](https://github.com/rly0nheart/cerium/commit/9808da8e37a03d83dffb68a5e52f3caa45291740) - Merge pull request #7 from rly0nheart/dev (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [9846703](https://github.com/rly0nheart/cerium/commit/9846703c6f60b317ff68d702ba13cabbac78f759) - Merge branch 'master' into dev (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [c2ffb75](https://github.com/rly0nheart/cerium/commit/c2ffb75855b2bb797fbd14bc86f3470d5de108b3) - refactor(workflow): Update workflow to get release notes from the CHANGELOG.md file (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [Release 0.1.3](https://github.com/rly0nheart/cerium/releases/tag/0.1.3) (January 27, 2026)
+- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: Released [v0.2.1](https://github.com/rly0nheart/updates-rs/releases/tag/0.2.1) (January 27, 2026)
+- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: [689afb8](https://github.com/rly0nheart/updates-rs/commit/689afb82c5681403a5f1e544749c7e2613b87f9f) - chore: update Cargo.lock before publish (January 27, 2026)
+- **[humanly](https://github.com/rly0nheart/humanly)**: Released [v0.1.3](https://github.com/rly0nheart/humanly/releases/tag/0.1.3) (January 27, 2026)
+- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: [783ad0e](https://github.com/rly0nheart/updates-rs/commit/783ad0eb123962663e3fb751f75b077b11c79f32) - chore: Add CHANGELOG.md and update publish workflow (January 27, 2026)
+- **[humanly](https://github.com/rly0nheart/humanly)**: [daa8f75](https://github.com/rly0nheart/humanly/commit/daa8f7551e94be8622f5cbd1eb6f52a0c35c1e48) - chore: Add CHANGELOG.md and update publish workflow (January 27, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
