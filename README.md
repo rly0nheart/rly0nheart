@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: [edee9a5](https://github.com/rly0nheart/cerium/commit/edee9a5272214d08708f7b32f36b3bbc2710576b) - fix: Android/Termux compilation errors with libc pointer types (January 26, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [7278467](https://github.com/rly0nheart/cerium/commit/72784673ee654642d87ff710cf8d4045b82da849) - fix: Android/Termux compilation errors with libc pointer types (January 26, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [3365d45](https://github.com/rly0nheart/cerium/commit/3365d453e38c441c0edfda8b425a8f058947be7a) - fix: Android/Termux compilation errors with libc pointer types (January 26, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [Release 0.1.3](https://github.com/rly0nheart/cerium/releases/tag/0.1.3) (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [51956f1](https://github.com/rly0nheart/cerium/commit/51956f18d1a87c67ebf00f2ae8a3448de9da56bd) - Merge pull request #6 from rly0nheart/dev (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [61a1761](https://github.com/rly0nheart/cerium/commit/61a1761bbff34b89d6bbac3e6822380caef9abbe) - fix: THIS should fix the workflow (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [6dfe038](https://github.com/rly0nheart/cerium/commit/6dfe03852cafd5b99e6430b7db772c7fd6f95902) - Merge pull request #5 from rly0nheart/dev (January 27, 2026)
 - **[actual](https://github.com/rly0nheart/actual)**: [f4fdb79](https://github.com/rly0nheart/actual/commit/f4fdb791006c563ca285290be759d3853e38e06e) - minor: Final push for public release: Updates README (January 18, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [b74a321](https://github.com/rly0nheart/pyahmia/commit/b74a321f2058c6df31ab94cc80b06bdda9b46f94) - refactor: Drop rich-click in favour of... argparse :) (January 18, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
