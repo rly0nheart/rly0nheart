@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.9](https://github.com/rly0nheart/cerium/releases/tag/0.1.9) (January 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [655d11e](https://github.com/rly0nheart/cerium/commit/655d11e08635f539b8a683d82b41cc24d24ffa6f) - Merge pull request 'dev' (#5) from dev into master (January 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [3eab460](https://github.com/rly0nheart/cerium/commit/3eab46086a4eb1fd42900084c0ae19c41ee80283) - Merge branch 'master' into dev (January 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [479145f](https://github.com/rly0nheart/cerium/commit/479145f78173af6f2ae58bb17599faa1fce491e8) - Merge branch 'dev' of ssh://codeberg.org/rly0nheart/cerium into dev (January 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.8](https://github.com/rly0nheart/cerium/releases/tag/0.1.8) (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.11](https://github.com/rly0nheart/cerium/releases/tag/0.1.11) (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [2207205](https://github.com/rly0nheart/cerium/commit/2207205158a174df007858c2f1759037ea773ae4) - Merge pull request 'chore(readme): okay, now i've finally found the perfect mockup' (#7) from dev into master (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [98e20db](https://github.com/rly0nheart/cerium/commit/98e20dbaea1c3b8cb7f579804e33631bf4b1eefe) - Merge branch 'master' into dev (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [6342f5f](https://github.com/rly0nheart/cerium/commit/6342f5fcf451d896c7711fcbeeb8dbad0351b615) - chore(readme): okay, now i've finally found the perfect mockup (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.10](https://github.com/rly0nheart/cerium/releases/tag/0.1.10) (January 28, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
