@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.6](https://github.com/rly0nheart/cerium/releases/tag/0.1.6) (January 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [2811f19](https://github.com/rly0nheart/cerium/commit/2811f19b3275d24f6dfc91b0cebf58df9cd46b93) - Merge pull request 'chore: Migrated back to Codeberg as the source of truth (GitHub was used temporarily during a Codeberg outage)' (#1) from dev into master (January 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [5de4b97](https://github.com/rly0nheart/cerium/commit/5de4b9769e970618ef1d9e86983d2e889a3e4f51) - chore: Migrated back to Codeberg as the source of truth (GitHub was used temporarily during a Codeberg outage) (January 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.5](https://github.com/rly0nheart/cerium/releases/tag/0.1.5) (January 27, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [0462af2](https://github.com/rly0nheart/cerium/commit/0462af2f5a03de972348fd113cb658084aca281d) - Merge pull request #8 from rly0nheart/dev (January 27, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.9](https://github.com/rly0nheart/cerium/releases/tag/0.1.9) (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [655d11e](https://github.com/rly0nheart/cerium/commit/655d11e08635f539b8a683d82b41cc24d24ffa6f) - Merge pull request 'dev' (#5) from dev into master (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [3eab460](https://github.com/rly0nheart/cerium/commit/3eab46086a4eb1fd42900084c0ae19c41ee80283) - Merge branch 'master' into dev (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [479145f](https://github.com/rly0nheart/cerium/commit/479145f78173af6f2ae58bb17599faa1fce491e8) - Merge branch 'dev' of ssh://codeberg.org/rly0nheart/cerium into dev (January 28, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.8](https://github.com/rly0nheart/cerium/releases/tag/0.1.8) (January 28, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
