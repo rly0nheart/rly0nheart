@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.1](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.1) (February 04, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [c502a05](https://github.com/rly0nheart/pyahmia/commit/c502a05599896fb29af2e6e81a01454144d9de27) - ci: auto-publish release on push to master (February 04, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [7c66f03](https://github.com/rly0nheart/pyahmia/commit/7c66f03506cd9f3c2e77c67fb3d1e60a9d306d83) - ci: auto-publish release on push to master (February 04, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [5d803f0](https://github.com/rly0nheart/pyahmia/commit/5d803f0095752b99764f00759d12ca6627b3752c) - 0.11.0 (February 04, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.12](https://github.com/rly0nheart/cerium/releases/tag/0.1.12) (January 31, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [a28e580](https://github.com/rly0nheart/cerium/commit/a28e58048ee71bc722e12cf3e41d17c8bd8c771e) - Merge pull request 'chore(icons): add icon for jsonl files, chore(linting): fix clippy errors and warnings' (#8) from dev into master (January 31, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [98ea440](https://github.com/rly0nheart/cerium/commit/98ea440611f2df3d55e7e766b52e5f0973b032b8) - Merge branch 'master' into dev (January 31, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [72d32bd](https://github.com/rly0nheart/cerium/commit/72d32bdb35114e3f3d02be13d54b1e15e6fb8419) - chore(icons): add icon for jsonl files, chore(linting): fix clippy errors and warnings (January 31, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.11](https://github.com/rly0nheart/cerium/releases/tag/0.1.11) (January 28, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
