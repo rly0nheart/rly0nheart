@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.13](https://github.com/rly0nheart/cerium/releases/tag/0.1.13) (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [980068f](https://github.com/rly0nheart/cerium/commit/980068f6b9f541da1b414f0f1884cd383e3d1759) - Merge pull request 'dev' (#9) from dev into master (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [a2d1ab6](https://github.com/rly0nheart/cerium/commit/a2d1ab64257474787009cc4530de0aea18c4aa56) - Merge branch 'master' into dev (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [b72ff62](https://github.com/rly0nheart/cerium/commit/b72ff628fc0e0bae1db11025b5bedbc5e36bd412) - chore(version): bump version to 0.1.13 (February 04, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.1](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.1) (February 04, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [c502a05](https://github.com/rly0nheart/pyahmia/commit/c502a05599896fb29af2e6e81a01454144d9de27) - ci: auto-publish release on push to master (February 04, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [7c66f03](https://github.com/rly0nheart/pyahmia/commit/7c66f03506cd9f3c2e77c67fb3d1e60a9d306d83) - ci: auto-publish release on push to master (February 04, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [5d803f0](https://github.com/rly0nheart/pyahmia/commit/5d803f0095752b99764f00759d12ca6627b3752c) - 0.11.0 (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.12](https://github.com/rly0nheart/cerium/releases/tag/0.1.12) (January 31, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
