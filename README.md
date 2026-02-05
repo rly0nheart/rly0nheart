@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.13](https://github.com/rly0nheart/cerium/releases/tag/0.1.13) (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [980068f](https://github.com/rly0nheart/cerium/commit/980068f6b9f541da1b414f0f1884cd383e3d1759) - Merge pull request 'dev' (#9) from dev into master (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [a2d1ab6](https://github.com/rly0nheart/cerium/commit/a2d1ab64257474787009cc4530de0aea18c4aa56) - Merge branch 'master' into dev (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [b72ff62](https://github.com/rly0nheart/cerium/commit/b72ff628fc0e0bae1db11025b5bedbc5e36bd412) - chore(version): bump version to 0.1.13 (February 04, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.1](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.1) (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15-nightly.20260204](https://github.com/rly0nheart/cerium/releases/tag/v0.1.15-nightly.20260204) (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15](https://github.com/rly0nheart/cerium/releases/tag/0.1.15) (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [65cc27a](https://github.com/rly0nheart/cerium/commit/65cc27a82faf61c4c2aa92b6b25358666a8c734d) - chore(version): bump version to 0.1.15 (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [9144ce2](https://github.com/rly0nheart/cerium/commit/9144ce28cbcf169b865b0b83ef0f8cd51d564670) - docs(changelog): add 0.1.14 changes (February 04, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.14](https://github.com/rly0nheart/cerium/releases/tag/0.1.14) (February 04, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
