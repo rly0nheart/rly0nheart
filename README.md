@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15-nightly.20260205](https://github.com/rly0nheart/cerium/releases/tag/v0.1.15-nightly.20260205) (February 05, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15-nightly.20260204](https://github.com/rly0nheart/cerium/releases/tag/v0.1.15-nightly.20260204) (February 04, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15](https://github.com/rly0nheart/cerium/releases/tag/0.1.15) (February 04, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [65cc27a](https://github.com/rly0nheart/cerium/commit/65cc27a82faf61c4c2aa92b6b25358666a8c734d) - chore(version): bump version to 0.1.15 (February 04, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [9144ce2](https://github.com/rly0nheart/cerium/commit/9144ce28cbcf169b865b0b83ef0f8cd51d564670) - docs(changelog): add 0.1.14 changes (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.14](https://github.com/rly0nheart/cerium/releases/tag/0.1.14) (February 04, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
