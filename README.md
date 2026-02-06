@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[logo_crawler](https://github.com/rly0nheart/logo_crawler)**: [a0a69e4](https://github.com/rly0nheart/logo_crawler/commit/a0a69e4cb929f9614ec57dec2740e83149b1f547) - chore(docs): add table of contents to readme (February 05, 2026)
+- **[logo_crawler](https://github.com/rly0nheart/logo_crawler)**: [32357ef](https://github.com/rly0nheart/logo_crawler/commit/32357effb8907e748111f4cdb156e021575cfb38) - chore(docs): update code lines reference links in readme (February 05, 2026)
+- **[logo_crawler](https://github.com/rly0nheart/logo_crawler)**: [ef4661f](https://github.com/rly0nheart/logo_crawler/commit/ef4661f1f26fb9ba87899a945c0e78b3ec5e7b06) - chore: initial commit (February 05, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15-nightly.20260205](https://github.com/rly0nheart/cerium/releases/tag/v0.1.15-nightly.20260205) (February 05, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15-nightly.20260204](https://github.com/rly0nheart/cerium/releases/tag/v0.1.15-nightly.20260204) (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15](https://github.com/rly0nheart/cerium/releases/tag/0.1.15) (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [65cc27a](https://github.com/rly0nheart/cerium/commit/65cc27a82faf61c4c2aa92b6b25358666a8c734d) - chore(version): bump version to 0.1.15 (February 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [9144ce2](https://github.com/rly0nheart/cerium/commit/9144ce28cbcf169b865b0b83ef0f8cd51d564670) - docs(changelog): add 0.1.14 changes (February 04, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
