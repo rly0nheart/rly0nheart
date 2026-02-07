@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.16-nightly.20260207](https://github.com/rly0nheart/cerium/releases/tag/v0.1.16-nightly.20260207) (February 07, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.16](https://github.com/rly0nheart/cerium/releases/tag/0.1.16) (February 06, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [1c0a355](https://github.com/rly0nheart/cerium/commit/1c0a3556107eab0b21ecbd3a37c63bc58db50922) - chore: prepare for release 0.1.16 (February 06, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [53c8caa](https://github.com/rly0nheart/cerium/commit/53c8caa55fbe1f3632f343c1dea4fcb5d7cf0bff) - feat:  option also omits empty files from output (February 06, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [16b00f2](https://github.com/rly0nheart/cerium/commit/16b00f2685590931329140589945a80f1f3bd705) - refactor(display): reorganise CLI display and add ai coding agent directories' icon (February 06, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.15-nightly.20260206](https://github.com/rly0nheart/cerium/releases/tag/v0.1.15-nightly.20260206) (February 06, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
