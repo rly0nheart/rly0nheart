@@ -11,10 +11,10 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.17-nightly.20260208](https://github.com/rly0nheart/cerium/releases/tag/v0.1.17-nightly.20260208) (February 08, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.17](https://github.com/rly0nheart/cerium/releases/tag/0.1.17) (February 07, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [2e14115](https://github.com/rly0nheart/cerium/commit/2e14115152f4107fb2a079e4d29e5fe2601c51af) - chore(tests): extracted tests to a separate tests/ directory (February 07, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [6996a27](https://github.com/rly0nheart/cerium/commit/6996a27b5ba5f68e4cd3c5a08c38f0a04e7601e3) - feat: add -L/--dereference option to show the metadata of the link target rather than the link file (February 07, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.16-nightly.20260207](https://github.com/rly0nheart/cerium/releases/tag/v0.1.16-nightly.20260207) (February 07, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [76d1dd1](https://github.com/rly0nheart/cerium/commit/76d1dd169bf24eaf6ba7fc33ccbdf6c181878a2c) - chore(theme): remove obsolete banner gradient colours from theme files (February 06, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
