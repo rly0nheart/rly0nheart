@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.19](https://github.com/rly0nheart/cerium/releases/tag/0.1.19) (February 09, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [3e1f7db](https://github.com/rly0nheart/cerium/commit/3e1f7db4ee78b32ae49f7d3d8db7ecb72c1c571f) - docs: major update to code doc strings (February 09, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [504f614](https://github.com/rly0nheart/cerium/commit/504f6142b35d420a3f00de896832d0e8675a8aa2) - chore(changelog): update changelog file (February 08, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [a9b1b25](https://github.com/rly0nheart/cerium/commit/a9b1b25f4330f9798f2ffa6f6bda0d5992c06222) - refactor: simplify is_args_requesting_metadata into single expression (February 08, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.18](https://github.com/rly0nheart/cerium/releases/tag/0.1.18) (February 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [9f1d920](https://github.com/rly0nheart/cerium/commit/9f1d920dc995ec863be43d9a649d47a5a3f6e5d9) - chore(release): prepare for release (February 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [e83525d](https://github.com/rly0nheart/cerium/commit/e83525d57e776e1bcd1ff6669d7d93477a683ac9) - chore(ci): fix nightly build workflow file (February 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [fa4f865](https://github.com/rly0nheart/cerium/commit/fa4f8656b392bd431ae3c6d5f361fe50d405932b) - chore(icons): add icon for CLAUDE.md files (February 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.17-nightly.20260208](https://github.com/rly0nheart/cerium/releases/tag/v0.1.17-nightly.20260208) (February 08, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
