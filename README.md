@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.21](https://github.com/rly0nheart/cerium/releases/tag/0.1.21) (February 09, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [a64b9af](https://github.com/rly0nheart/cerium/commit/a64b9afe7fef8e553036ef6f4e86c99ebf095dc8) - fix(summary): uncounted entries when -R/--recursive is passed (February 09, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.20](https://github.com/rly0nheart/cerium/releases/tag/0.1.20) (February 09, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [66baaea](https://github.com/rly0nheart/cerium/commit/66baaea25bc3bb216b86b6094be972a6c1d45976) - feat(summary): add directory and file count summary to all display modes (February 09, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.19](https://github.com/rly0nheart/cerium/releases/tag/0.1.19) (February 09, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [3e1f7db](https://github.com/rly0nheart/cerium/commit/3e1f7db4ee78b32ae49f7d3d8db7ecb72c1c571f) - docs: major update to code doc strings (February 09, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [504f614](https://github.com/rly0nheart/cerium/commit/504f6142b35d420a3f00de896832d0e8675a8aa2) - chore(changelog): update changelog file (February 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [a9b1b25](https://github.com/rly0nheart/cerium/commit/a9b1b25f4330f9798f2ffa6f6bda0d5992c06222) - refactor: simplify is_args_requesting_metadata into single expression (February 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.18](https://github.com/rly0nheart/cerium/releases/tag/0.1.18) (February 08, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
