@@ -22,7 +22,7 @@
 | Project                                                                                                                                                            |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [actual](https://github.com/rly0nheart/actual) <br/> File carving tool for forensic image recovery.                                                                |
-| [cerium](https://github.com/rly0nheart/cerium) <br/> Yet, another ls-like util that is not trying to replace ls.                                                    |
+| [cerium](https://github.com/rly0nheart/cerium) <br/> Element 58: a lighter way to list Giles and directories.                             
 | [humanly](https://github.com/rly0nheart/humanly) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. |
 | [knewkarma](https://github.com/rly0nheart/knewkarma) <br/> Zero-auth toolkit for Reddit data analysis.                                                             |
 | [octosuite](https://github.com/bellingcat/octosuite) <br/> TUI-based toolkit for GitHub data analysis.                                                             |
