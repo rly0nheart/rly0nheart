@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.21](https://github.com/rly0nheart/cerium/releases/tag/0.1.21) (February 09, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [a64b9af](https://github.com/rly0nheart/cerium/commit/a64b9afe7fef8e553036ef6f4e86c99ebf095dc8) - fix(summary): uncounted entries when -R/--recursive is passed (February 09, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.20](https://github.com/rly0nheart/cerium/releases/tag/0.1.20) (February 09, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [66baaea](https://github.com/rly0nheart/cerium/commit/66baaea25bc3bb216b86b6094be972a6c1d45976) - feat(summary): add directory and file count summary to all display modes (February 09, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.19](https://github.com/rly0nheart/cerium/releases/tag/0.1.19) (February 09, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.24](https://github.com/rly0nheart/cerium/releases/tag/0.1.24) (February 11, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [205dc43](https://github.com/rly0nheart/cerium/commit/205dc4321e85bea4bec6d8f5860da896bf7fb660) - fix(docs): showing remote logo in readme on crates.io (February 11, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.23](https://github.com/rly0nheart/cerium/releases/tag/0.1.23) (February 11, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [376abb7](https://github.com/rly0nheart/cerium/commit/376abb7722fdbc31a26e25db918a121fd7e6c647) - chore(release): prepare release (February 10, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [8485d7c](https://github.com/rly0nheart/cerium/commit/8485d7ce2f7aa1146788138c9312d4540e619f20) - chore(img,docs): add new logo images and update documentation (February 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
