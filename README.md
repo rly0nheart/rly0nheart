@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.24-nightly.20260211](https://github.com/rly0nheart/cerium/releases/tag/v0.1.24-nightly.20260211) (February 11, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.24](https://github.com/rly0nheart/cerium/releases/tag/0.1.24) (February 11, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [205dc43](https://github.com/rly0nheart/cerium/commit/205dc4321e85bea4bec6d8f5860da896bf7fb660) - fix(docs): showing remote logo in readme on crates.io (February 11, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.23](https://github.com/rly0nheart/cerium/releases/tag/0.1.23) (February 11, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [376abb7](https://github.com/rly0nheart/cerium/commit/376abb7722fdbc31a26e25db918a121fd7e6c647) - chore(release): prepare release (February 10, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [8485d7c](https://github.com/rly0nheart/cerium/commit/8485d7ce2f7aa1146788138c9312d4540e619f20) - chore(img,docs): add new logo images and update documentation (February 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
