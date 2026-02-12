@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.24-nightly.20260211](https://github.com/rly0nheart/cerium/releases/tag/v0.1.24-nightly.20260211) (February 11, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.24](https://github.com/rly0nheart/cerium/releases/tag/0.1.24) (February 11, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [205dc43](https://github.com/rly0nheart/cerium/commit/205dc4321e85bea4bec6d8f5860da896bf7fb660) - fix(docs): showing remote logo in readme on crates.io (February 11, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.23](https://github.com/rly0nheart/cerium/releases/tag/0.1.23) (February 11, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [376abb7](https://github.com/rly0nheart/cerium/commit/376abb7722fdbc31a26e25db918a121fd7e6c647) - chore(release): prepare release (February 10, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.27](https://github.com/rly0nheart/cerium/releases/tag/0.1.27) (February 12, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [aeb155b](https://github.com/rly0nheart/cerium/commit/aeb155b5f388fac0997f1214e9f33f4acec4d67a) - feat: multi-variant binary builds with per-feature installer (February 12, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.26](https://github.com/rly0nheart/cerium/releases/tag/0.1.26) (February 12, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [b4ce0ea](https://github.com/rly0nheart/cerium/commit/b4ce0ea73072d4923153addbf64aa1fd0983b8ae) - fix(ci): again, failed pushing binary to github release (immutable releases) (February 12, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.25](https://github.com/rly0nheart/cerium/releases/tag/0.1.25) (February 12, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
