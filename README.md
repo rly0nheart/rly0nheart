@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.27-nightly.20260213](https://github.com/rly0nheart/cerium/releases/tag/v0.1.27-nightly.20260213) (February 13, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.27](https://github.com/rly0nheart/cerium/releases/tag/0.1.27) (February 12, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [aeb155b](https://github.com/rly0nheart/cerium/commit/aeb155b5f388fac0997f1214e9f33f4acec4d67a) - feat: multi-variant binary builds with per-feature installer (February 12, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.26](https://github.com/rly0nheart/cerium/releases/tag/0.1.26) (February 12, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [b4ce0ea](https://github.com/rly0nheart/cerium/commit/b4ce0ea73072d4923153addbf64aa1fd0983b8ae) - fix(ci): again, failed pushing binary to github release (immutable releases) (February 12, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.25](https://github.com/rly0nheart/cerium/releases/tag/0.1.25) (February 12, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
