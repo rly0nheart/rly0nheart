@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.28](https://github.com/rly0nheart/cerium/releases/tag/0.1.28) (February 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [ed11eaa](https://github.com/rly0nheart/cerium/commit/ed11eaab9b76324f2a59f0e67dca42194eb547b2) - Merge branch 'dev' (February 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [a0e94e2](https://github.com/rly0nheart/cerium/commit/a0e94e27d8751a26ac7741731d09d74b816dd7a3) - chore(nightly): tag nightly files with '.nightly' (February 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [572caa3](https://github.com/rly0nheart/cerium/commit/572caa395a5e513612c026783fe63185df42d9c3) - chore(nightly): tag nightly files with '.nightly' (February 15, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.27-nightly.20260215](https://github.com/rly0nheart/cerium/releases/tag/v0.1.27-nightly.20260215) (February 15, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.27-nightly.20260214](https://github.com/rly0nheart/cerium/releases/tag/v0.1.27-nightly.20260214) (February 14, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.27](https://github.com/rly0nheart/cerium/releases/tag/0.1.27) (February 12, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [aeb155b](https://github.com/rly0nheart/cerium/commit/aeb155b5f388fac0997f1214e9f33f4acec4d67a) - feat: multi-variant binary builds with per-feature installer (February 12, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [b4ce0ea](https://github.com/rly0nheart/cerium/commit/b4ce0ea73072d4923153addbf64aa1fd0983b8ae) - fix(ci): again, failed pushing binary to github release (immutable releases) (February 12, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
