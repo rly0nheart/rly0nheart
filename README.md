@@ -11,10 +11,10 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260220](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260220) (February 20, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30](https://github.com/rly0nheart/cerium/releases/tag/0.1.30) (February 19, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [bbc51d2](https://github.com/rly0nheart/cerium/commit/bbc51d2964c2662699cdaa6c016faede0d0e4bf4) - chore: make install.sh compatible with sh (February 19, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [d5bce56](https://github.com/rly0nheart/cerium/commit/d5bce5665c9dd2b77a1b700b47befcad02280f19) - chore: make install.sh compatible with sh (February 19, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.29-nightly.20260219](https://github.com/rly0nheart/cerium/releases/tag/v0.1.29-nightly.20260219) (February 19, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.29](https://github.com/rly0nheart/cerium/releases/tag/0.1.29) (February 17, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
