@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[buganise](https://github.com/rly0nheart/buganise)**: Released [1.1.0](https://github.com/rly0nheart/buganise/releases/tag/1.1.0) (February 22, 2026)
-- **[buganise](https://github.com/rly0nheart/buganise)**: [a4a6122](https://github.com/rly0nheart/buganise/commit/a4a6122cc08b6396005d8460b0ba8752dad24f05) - chore(api): british english equivalents for all imports (February 22, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [0.2.3](https://github.com/rly0nheart/buganize/releases/tag/0.2.3) (February 22, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [732b0b5](https://github.com/rly0nheart/buganize/commit/732b0b54c0ffe42fe7f1917362f65fcf75ccf932) - chore(cli): add buganise alias for CLI (February 22, 2026)
-- **[buganise](https://github.com/rly0nheart/buganise)**: Released [1.0.0](https://github.com/rly0nheart/buganise/releases/tag/1.0.0) (February 22, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [1.0.1](https://github.com/rly0nheart/buganize/releases/tag/1.0.1) (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [757dde4](https://github.com/rly0nheart/buganize/commit/757dde4a361491c0856b7119a018525e15019bc6) - chore(docs): update api docs, and readme.md at root (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [1.0.0](https://github.com/rly0nheart/buganize/releases/tag/1.0.0) (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [a69695f](https://github.com/rly0nheart/buganize/commit/a69695f552debb65dfc4357b312ad2ec80ab4653) - api: multi-tracker support, drop pandas, refactor in output (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [5a9b5bc](https://github.com/rly0nheart/buganize/commit/5a9b5bcfa4fbba20f2afa5201390dccb47ac806b) - api: multi-tracker support, drop pandas, refactor in output (February 23, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
