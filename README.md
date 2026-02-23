@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [1.0.1](https://github.com/rly0nheart/buganize/releases/tag/1.0.1) (February 23, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [757dde4](https://github.com/rly0nheart/buganize/commit/757dde4a361491c0856b7119a018525e15019bc6) - chore(docs): update api docs, and readme.md at root (February 23, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [1.0.0](https://github.com/rly0nheart/buganize/releases/tag/1.0.0) (February 23, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [a69695f](https://github.com/rly0nheart/buganize/commit/a69695f552debb65dfc4357b312ad2ec80ab4653) - api: multi-tracker support, drop pandas, refactor in output (February 23, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [5a9b5bc](https://github.com/rly0nheart/buganize/commit/5a9b5bcfa4fbba20f2afa5201390dccb47ac806b) - api: multi-tracker support, drop pandas, refactor in output (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [1.0.2](https://github.com/rly0nheart/buganize/releases/tag/1.0.2) (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [ed26529](https://github.com/rly0nheart/buganize/commit/ed265294dbc8f91c07000320665c36f7d9837664) - chore(docs): update api docs and project readme (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [1d1190d](https://github.com/rly0nheart/buganize/commit/1d1190d069b306c929e179a1f74c2a23eda7ed2f) - Update CHANGELOG.md (February 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [c09a7b1](https://github.com/rly0nheart/buganize/commit/c09a7b15c24028a5680cfc317c976d3f5f7d6c64) - chore: bump version to 1.0.2 (February 23, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260223](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260223) (February 23, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
