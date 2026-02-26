@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.1.2](https://github.com/rly0nheart/buganize/releases/tag/1.1.2) (February 24, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [4956bd0](https://github.com/rly0nheart/buganize/commit/4956bd0d3ec6817a467ec35cb10cb39afc15a2c7) - ci: switch to gh CLI for releases, bump to 1.1.2 (February 24, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [1.1.1](https://github.com/rly0nheart/buganize/releases/tag/1.1.1) (February 24, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [63f378d](https://github.com/rly0nheart/buganize/commit/63f378d86ec22029b1c49f6c469610cb61c5e545) - fix: correct USAGE.md link in README, bump to 1.1.1 (February 24, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [1.1.0](https://github.com/rly0nheart/buganize/releases/tag/1.1.0) (February 24, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.3.0](https://github.com/rly0nheart/buganize/releases/tag/1.3.0) (February 25, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [bb27a11](https://github.com/rly0nheart/buganize/commit/bb27a116a0992b6ef669cd6dc70db54a0873f968) - refactor: make -f/--fields, -e/--export, -F/--all-fields global repeatable options (February 25, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.2.0](https://github.com/rly0nheart/buganize/releases/tag/1.2.0) (February 25, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [c2b8b1d](https://github.com/rly0nheart/buganize/commit/c2b8b1df04d93f0ecbbc1359ac3ba67f3280625e) - feat: multi-tracker search, issue body parsing, deprecate issue() (February 25, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260225](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260225) (February 25, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
