@@ -22,7 +22,7 @@
 
 | Project                                                                                                                                                            |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [buganize](https://github.com/rly0nheart/buganize) <br/> Python client for Google Issue Tracking system (Buganizer)                                                                  |
+| [buganize](https://github.com/rly0nheart/buganize) <br/> Python client for Google Issue Tracking system (Buganizer).                                                                  |
 | [actual](https://github.com/rly0nheart/actual) <br/> File carving tool for forensic image recovery.                                                                |
 | [cerium](https://github.com/rly0nheart/cerium) <br/> A lighter way to list files and directories.                                                                  |
 | [humanly](https://github.com/rly0nheart/humanly) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. |
