@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260227](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260227) (February 27, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.4.0](https://github.com/rly0nheart/buganize/releases/tag/1.4.0) (February 26, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [e8dae69](https://github.com/rly0nheart/buganize/commit/e8dae69fbbe02f95a7b5f83457198cdeb1259238) - chore: replace update-checker with built-in async implementation (February 26, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [a06279d](https://github.com/rly0nheart/buganize/commit/a06279d40965b74a88cb051404dd741f6dcf2406) - chore: replace update-checker with built-in async implementation (February 26, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260226](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260226) (February 26, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [d747346](https://github.com/rly0nheart/buganize/commit/d747346d8fb6dfc0dd1deae8648093b29010e5b8) - chore(docs): update api reference docs (February 25, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
