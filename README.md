@@ -22,12 +22,12 @@
 
 | Project                                                                                                                                                            |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [buganize](https://github.com/rly0nheart/buganize) <br/> Python client for the Google Issue Tracking system (Buganizer).                                                                  |
+| [buganize](https://github.com/rly0nheart/buganize) <br/> Unofficial Python client for the Google Issue Tracking system (Buganizer).                                |
 | [actual](https://github.com/rly0nheart/actual) <br/> File carving tool for forensic image recovery.                                                                |
 | [cerium](https://github.com/rly0nheart/cerium) <br/> A lighter way to list files and directories.                                                                  |
 | [humanly](https://github.com/rly0nheart/humanly) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. |
 | [knewkarma](https://github.com/rly0nheart/knewkarma) <br/> Zero-auth toolkit for Reddit data analysis.                                                             |
-| [octosuite](https://github.com/bellingcat/octosuite) <br/> TUI-based toolkit for GitHub data analysis.                                                             |
+| [octosuite](https://github.com/bellingcat/octosuite) <br/> Terminal-based toolkit for GitHub data analysis.                                                        |
 | [pyahmia](https://github.com/rly0nheart/pyahmia) <br/> Search hidden services on the Tor network.                                                                  |
 | [searchcode-python](https://github.com/rly0nheart/searchcode-python)<br/> Python SDK and CLI utility for searchcode.com.                                           |
 | [updates-rs](https://github.com/rly0nheart/updates-rs/) <br/> A Rust library that checks for crate updates.                                                        |
