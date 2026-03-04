@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.0](https://github.com/rly0nheart/buganize/releases/tag/1.5.0) (March 03, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [2711bc9](https://github.com/rly0nheart/buganize/commit/2711bc99554781a15a5a738efae8c06cfcea5efd) - refactor: use PEP 604 union syntax, rename output module to output_handler, update tests to use issues() method over issue(), add ci workflow for running scheduled tests (March 03, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260303](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260303) (March 03, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260302](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260302) (March 02, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260301](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260301) (March 01, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.4.0](https://github.com/rly0nheart/buganize/releases/tag/1.4.0) (February 26, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [e8dae69](https://github.com/rly0nheart/buganize/commit/e8dae69fbbe02f95a7b5f83457198cdeb1259238) - chore: replace update-checker with built-in async implementation (February 26, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [a06279d](https://github.com/rly0nheart/buganize/commit/a06279d40965b74a88cb051404dd741f6dcf2406) - chore: replace update-checker with built-in async implementation (February 26, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
