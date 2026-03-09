@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.2](https://github.com/rly0nheart/buganize/releases/tag/1.5.2) (March 09, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [32cd202](https://github.com/rly0nheart/buganize/commit/32cd202d9f658b07a0ee75959e8715052fa46772) - fix(api): possible logical bug in api/parser.py (March 09, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260308](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260308) (March 08, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.1](https://github.com/rly0nheart/buganize/releases/tag/1.5.1) (March 08, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [bae0689](https://github.com/rly0nheart/buganize/commit/bae06894652d7214a37ed2b83ac9fe2329244027) - fix: failing tests (March 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260307](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260307) (March 07, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260306](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260306) (March 06, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.0](https://github.com/rly0nheart/buganize/releases/tag/1.5.0) (March 03, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
