@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260314](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260314) (March 14, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260313](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260313) (March 13, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.3](https://github.com/rly0nheart/buganize/releases/tag/1.5.3) (March 12, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [b175fac](https://github.com/rly0nheart/buganize/commit/b175fac879911a2ddf0c32f58f2f64617f3b234e) - chore: fix failing test and added nix support (March 12, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [cf231e4](https://github.com/rly0nheart/buganize/commit/cf231e4b83de9f47d7c530f99061084ebf38186d) - chore: fix failing test and added nix support (March 12, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260312](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260312) (March 12, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
