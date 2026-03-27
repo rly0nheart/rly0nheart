@@ -11,10 +11,10 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260326](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260326) (March 26, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260325](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260325) (March 25, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.4](https://github.com/rly0nheart/buganize/releases/tag/1.5.4) (March 24, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [70fc626](https://github.com/rly0nheart/buganize/commit/70fc62629026af037998066f3551a7bb4d6acd03) - fix: failing test, and properly handle potentially private issues in tests (March 24, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260324](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260324) (March 24, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.3](https://github.com/rly0nheart/buganize/releases/tag/1.5.3) (March 12, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
