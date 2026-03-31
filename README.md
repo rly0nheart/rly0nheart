@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260329](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260329) (March 29, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260328](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260328) (March 28, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.6.0](https://github.com/rly0nheart/buganize/releases/tag/1.6.0) (March 30, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [774ba19](https://github.com/rly0nheart/buganize/commit/774ba19e63236fc22c516a19e93ab2f124e206d9) - chore: re-confirmed issue ids are unique accross all trackers (March 30, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [63f1678](https://github.com/rly0nheart/buganize/commit/63f167835b06b4b2ecf7a86f60f8a5765ec3039d) - api: add health check, switch comments to /listComments endpoint, fix issue body (March 28, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [b137272](https://github.com/rly0nheart/buganize/commit/b13727292296caa1da687587290fe0f46864175c) - chore: gitignore .idea dir (March 26, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.4](https://github.com/rly0nheart/buganize/releases/tag/1.5.4) (March 24, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [70fc626](https://github.com/rly0nheart/buganize/commit/70fc62629026af037998066f3551a7bb4d6acd03) - fix: failing test, and properly handle potentially private issues in tests (March 24, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.3](https://github.com/rly0nheart/buganize/releases/tag/1.5.3) (March 12, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
