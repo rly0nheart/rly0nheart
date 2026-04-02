@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.6.0](https://github.com/rly0nheart/buganize/releases/tag/1.6.0) (March 30, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [774ba19](https://github.com/rly0nheart/buganize/commit/774ba19e63236fc22c516a19e93ab2f124e206d9) - chore: re-confirmed issue ids are unique accross all trackers (March 30, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [63f1678](https://github.com/rly0nheart/buganize/commit/63f167835b06b4b2ecf7a86f60f8a5765ec3039d) - api: add health check, switch comments to /listComments endpoint, fix issue body (March 28, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [b137272](https://github.com/rly0nheart/buganize/commit/b13727292296caa1da687587290fe0f46864175c) - chore: gitignore .idea dir (March 26, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.5.4](https://github.com/rly0nheart/buganize/releases/tag/1.5.4) (March 24, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.0](https://github.com/rly0nheart/buganize/releases/tag/1.7.0) (April 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [6c68e97](https://github.com/rly0nheart/buganize/commit/6c68e9709be0c39b1bd91e0b21152264046df477) - feat: feature-gate the cli behind an extra (cli), add 'html' option to -e/--export flag (April 01, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260401](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260401) (April 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [2331d7f](https://github.com/rly0nheart/buganize/commit/2331d7fd69e3c8ef1e6d2d4b2f790a68774fc2a2) - chore(docs): update description (March 31, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [f16c896](https://github.com/rly0nheart/buganize/commit/f16c896159843b4d05f79b120d1b8c4e263fb9a7) - chore(docs): update docs on getting a single issue (March 31, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
