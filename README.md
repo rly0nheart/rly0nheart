@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260407](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260407) (April 07, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.2](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.2) (April 06, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [e7ea1ce](https://github.com/rly0nheart/pyahmia/commit/e7ea1ce6a707d587f1c9422b58ab1ce2af5eeb90) - chore: bump dependency versions (April 06, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [6a333ae](https://github.com/rly0nheart/pyahmia/commit/6a333ae702f618272e97f2f6aa3b95b3186dd7e2) - Merge pull request #15 from rly0nheart/dependabot/uv/pygments-2.20.0 (April 06, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [3fa09bf](https://github.com/rly0nheart/pyahmia/commit/3fa09bfceb5b245f29a1113eb6f20a57f7cb32f4) - Merge pull request #14 from rly0nheart/dependabot/uv/requests-2.33.0 (April 06, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260406](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260406) (April 06, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.0](https://github.com/rly0nheart/buganize/releases/tag/1.7.0) (April 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [6c68e97](https://github.com/rly0nheart/buganize/commit/6c68e9709be0c39b1bd91e0b21152264046df477) - feat: feature-gate the cli behind an extra (cli), add 'html' option to -e/--export flag (April 01, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
