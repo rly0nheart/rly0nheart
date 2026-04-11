@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260410](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260410) (April 10, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260409](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260409) (April 09, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260408](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260408) (April 08, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.2](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.2) (April 06, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.0](https://github.com/rly0nheart/buganize/releases/tag/1.7.0) (April 01, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [6c68e97](https://github.com/rly0nheart/buganize/commit/6c68e9709be0c39b1bd91e0b21152264046df477) - feat: feature-gate the cli behind an extra (cli), add 'html' option to -e/--export flag (April 01, 2026)
