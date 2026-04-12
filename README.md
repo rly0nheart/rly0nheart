@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260410](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260410) (April 10, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260409](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260409) (April 09, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.2](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.2) (April 06, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.0](https://github.com/rly0nheart/buganize/releases/tag/1.7.0) (April 01, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [6c68e97](https://github.com/rly0nheart/buganize/commit/6c68e9709be0c39b1bd91e0b21152264046df477) - feat: feature-gate the cli behind an extra (cli), add 'html' option to -e/--export flag (April 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.1](https://github.com/rly0nheart/buganize/releases/tag/1.7.1) (April 11, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [e467d33](https://github.com/rly0nheart/buganize/commit/e467d338da90349313dbe7f7459bd1cce5874ef1) - Merge pull request #2 from rly0nheart/dev (April 11, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [609cf74](https://github.com/rly0nheart/buganize/commit/609cf744356a17f0b490e56a08df90da9a9a7b58) - chore: bump version to 1.7.1 (April 11, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [a7e530b](https://github.com/rly0nheart/buganize/commit/a7e530b12533b3960c5bf68196fbd0b02310d5f6) - refactor: update dockerfile (April 11, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260411](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260411) (April 11, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
