@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260414](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260414) (April 14, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260413](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260413) (April 13, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260412](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260412) (April 12, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.1](https://github.com/rly0nheart/buganize/releases/tag/1.7.1) (April 11, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [e467d33](https://github.com/rly0nheart/buganize/commit/e467d338da90349313dbe7f7459bd1cce5874ef1) - Merge pull request #2 from rly0nheart/dev (April 11, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [609cf74](https://github.com/rly0nheart/buganize/commit/609cf744356a17f0b490e56a08df90da9a9a7b58) - chore: bump version to 1.7.1 (April 11, 2026)
