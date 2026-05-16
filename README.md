@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.1](https://github.com/rly0nheart/buganize/releases/tag/1.7.1) (April 11, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [e467d33](https://github.com/rly0nheart/buganize/commit/e467d338da90349313dbe7f7459bd1cce5874ef1) - Merge pull request #2 from rly0nheart/dev (April 11, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [609cf74](https://github.com/rly0nheart/buganize/commit/609cf744356a17f0b490e56a08df90da9a9a7b58) - chore: bump version to 1.7.1 (April 11, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [a7e530b](https://github.com/rly0nheart/buganize/commit/a7e530b12533b3960c5bf68196fbd0b02310d5f6) - refactor: update dockerfile (April 11, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.7.0](https://github.com/rly0nheart/buganize/releases/tag/1.7.0) (April 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.8.0](https://github.com/rly0nheart/buganize/releases/tag/1.8.0) (May 15, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [2cf24c9](https://github.com/rly0nheart/buganize/commit/2cf24c92527e93c9b81a2c638db5b3549fbd715c) - Merge branch 'master' of github.com:rly0nheart/buganize (May 15, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [a69b2f6](https://github.com/rly0nheart/buganize/commit/a69b2f6c2138f7e683fa13f0d65b397b56953eb7) - feat: last_activity/comment edit tracking, echo command, shared cli symbols (May 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260515](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260515) (May 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.1.30-nightly.20260514](https://github.com/rly0nheart/cerium/releases/tag/v0.1.30-nightly.20260514) (May 14, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
