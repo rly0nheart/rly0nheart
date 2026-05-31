@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260530](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260530) (May 30, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1](https://github.com/rly0nheart/cerium/releases/tag/0.2.1) (May 29, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [a006480](https://github.com/rly0nheart/cerium/commit/a006480d504edb46705e15ebf15e72f9d61447b0) - Merge branch 'dev' (May 29, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [4be8ae6](https://github.com/rly0nheart/cerium/commit/4be8ae60fb8ef601b5d6da1111f2e866f3aa4e9d) - chore(release): 0.2.1 (May 29, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [668546f](https://github.com/rly0nheart/cerium/commit/668546fe93fd611f680ebfbda34ba27ef1d64b8a) - Merge branch 'dev' (May 29, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.0-nightly.20260529](https://github.com/rly0nheart/cerium/releases/tag/v0.2.0-nightly.20260529) (May 29, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
