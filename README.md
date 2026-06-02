@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260531](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260531) (May 31, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260530](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260530) (May 30, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1](https://github.com/rly0nheart/cerium/releases/tag/0.2.1) (May 29, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [a006480](https://github.com/rly0nheart/cerium/commit/a006480d504edb46705e15ebf15e72f9d61447b0) - Merge branch 'dev' (May 29, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [4be8ae6](https://github.com/rly0nheart/cerium/commit/4be8ae60fb8ef601b5d6da1111f2e866f3aa4e9d) - chore(release): 0.2.1 (May 29, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.9.2](https://github.com/rly0nheart/buganize/releases/tag/1.9.2) (June 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [836fdec](https://github.com/rly0nheart/buganize/commit/836fdec2badff03c9414509d8c0221accdd333e9) - Merge branch 'dev' (June 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [b8b5428](https://github.com/rly0nheart/buganize/commit/b8b542815cb77bd9e1265e927ea28c0289750326) - Update README.md to remove GUI feature details (June 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [071936f](https://github.com/rly0nheart/buganize/commit/071936f14e4f786c64fc86633c216afbd54aebdf) - fix(gui): failing to create .gui-env for the GUI (June 01, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.9.1](https://github.com/rly0nheart/buganize/releases/tag/1.9.1) (June 01, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
