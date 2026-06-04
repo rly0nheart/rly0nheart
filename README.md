@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260603](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260603) (June 03, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260602](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260602) (June 02, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.9.2](https://github.com/rly0nheart/buganize/releases/tag/1.9.2) (June 01, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [836fdec](https://github.com/rly0nheart/buganize/commit/836fdec2badff03c9414509d8c0221accdd333e9) - Merge branch 'dev' (June 01, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [b8b5428](https://github.com/rly0nheart/buganize/commit/b8b542815cb77bd9e1265e927ea28c0289750326) - Update README.md to remove GUI feature details (June 01, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [071936f](https://github.com/rly0nheart/buganize/commit/071936f14e4f786c64fc86633c216afbd54aebdf) - fix(gui): failing to create .gui-env for the GUI (June 01, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
