@@ -1,9 +1,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Gooeys (GUIs) Might Not Be My Thing](https://rly0nheart.com/posts/programming/gooeys-guis-might-not-be-my-thing/) - June 07, 2026
 - [Anthropic Took a Stand, But For Who?](https://rly0nheart.com/posts/anthropic-took-a-stand-but-for-who/) - February 28, 2026
 - [You're Probably Pronouncing "Ubuntu" Wrong](https://rly0nheart.com/posts/youre-probably-pronouncing-ubuntu-wrong/) - February 16, 2026
+- [We've Replaced Human Workers with AI, Now What?](https://rly0nheart.com/posts/weve-replaced-human-workers-with-ai-now-what/) - February 15, 2026
 - [Some AI Songs Might Actually Be Worth Listening To?](https://rly0nheart.com/posts/music/some-ai-songs-might-actually-be-worth-listening-to/) - January 24, 2026
 - [Why I Rewrote Octosuite After 4 Years](https://rly0nheart.com/posts/programming/why-i-rewrote-octosuite-after-4-years/) - January 22, 2026
 <!-- BLOG-POSTS:END -->
