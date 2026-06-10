@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260609](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260609) (June 09, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260608](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260608) (June 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260607](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260607) (June 07, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.9.2](https://github.com/rly0nheart/buganize/releases/tag/1.9.2) (June 01, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [836fdec](https://github.com/rly0nheart/buganize/commit/836fdec2badff03c9414509d8c0221accdd333e9) - Merge branch 'dev' (June 01, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [b8b5428](https://github.com/rly0nheart/buganize/commit/b8b542815cb77bd9e1265e927ea28c0289750326) - Update README.md to remove GUI feature details (June 01, 2026)
