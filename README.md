@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260629](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260629) (June 29, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260628](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260628) (June 28, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260627](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260627) (June 27, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.10.0](https://github.com/rly0nheart/buganize/releases/tag/1.10.0) (June 16, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [4d32c13](https://github.com/rly0nheart/buganize/commit/4d32c134a8b99e8fc290048994e08627db466d15) - chore: remove --pager option: output will be paged by default (June 16, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.9.2](https://github.com/rly0nheart/buganize/releases/tag/1.9.2) (June 01, 2026)
