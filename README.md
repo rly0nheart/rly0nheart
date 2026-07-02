@@ -1,21 +1,21 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Anthropic Took a Stand, But For Who?](https://rly0nheart.com/posts/anthropic-took-a-stand-but-for-who/) - February 28, 2026
 - [You're Probably Pronouncing "Ubuntu" Wrong](https://rly0nheart.com/posts/youre-probably-pronouncing-ubuntu-wrong/) - February 16, 2026
-- [We've Replaced Human Workers with AI, Now What?](https://rly0nheart.com/posts/weve-replaced-human-workers-with-ai-now-what/) - February 15, 2026
 - [Some AI Songs Might Actually Be Worth Listening To?](https://rly0nheart.com/posts/music/some-ai-songs-might-actually-be-worth-listening-to/) - January 24, 2026
 - [Why I Rewrote Octosuite After 4 Years](https://rly0nheart.com/posts/programming/why-i-rewrote-octosuite-after-4-years/) - January 22, 2026
+- [I Taught Myself to Code on a Cracked Android Phone. Now I Can't Get Hired](https://rly0nheart.com/posts/life/i-taught-myself-to-code-on-a-cracked-android-phone-now-i-cant-get-hired/) - January 12, 2026
+- [Hello, Reader](https://rly0nheart.com/posts/introductions/hello-reader/) - December 19, 2025
 <!-- BLOG-POSTS:END -->
 
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [a868f8f](https://github.com/rly0nheart/rly0nheart.com/commit/a868f8f555a2d575665ce24819c7c52a2f2635c9) - Make blog public (July 01, 2026)
+- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [b7c1968](https://github.com/rly0nheart/rly0nheart.com/commit/b7c19680dc2093c4df811ebb09bccbe7657679a5) - I dont know why this keeps getting reverted (July 01, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260701](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260701) (July 01, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260630](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260630) (June 30, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260629](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260629) (June 29, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.10.0](https://github.com/rly0nheart/buganize/releases/tag/1.10.0) (June 16, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [4d32c13](https://github.com/rly0nheart/buganize/commit/4d32c134a8b99e8fc290048994e08627db466d15) - chore: remove --pager option: output will be paged by default (June 16, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.9.2](https://github.com/rly0nheart/buganize/releases/tag/1.9.2) (June 01, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
