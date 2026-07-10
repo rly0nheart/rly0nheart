@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260709](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260709) (July 09, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260708](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260708) (July 08, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260707](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260707) (July 07, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [a868f8f](https://github.com/rly0nheart/rly0nheart.com/commit/a868f8f555a2d575665ce24819c7c52a2f2635c9) - Make blog public (July 01, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [b7c1968](https://github.com/rly0nheart/rly0nheart.com/commit/b7c19680dc2093c4df811ebb09bccbe7657679a5) - I dont know why this keeps getting reverted (July 01, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.10.0](https://github.com/rly0nheart/buganize/releases/tag/1.10.0) (June 16, 2026)
