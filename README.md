@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260711](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260711) (July 11, 2026)
+- **[humanly](https://github.com/rly0nheart/humanly)**: Released [v0.1.5](https://github.com/rly0nheart/humanly/releases/tag/0.1.5) (July 11, 2026)
+- **[humanly](https://github.com/rly0nheart/humanly)**: [4ec6803](https://github.com/rly0nheart/humanly/commit/4ec6803dac9d6534916d6c64cb609f7ddacdfb30) - feat: show bytes with 'b' suffix (July 11, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260710](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260710) (July 10, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260709](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260709) (July 09, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [a868f8f](https://github.com/rly0nheart/rly0nheart.com/commit/a868f8f555a2d575665ce24819c7c52a2f2635c9) - Make blog public (July 01, 2026)
-- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [b7c1968](https://github.com/rly0nheart/rly0nheart.com/commit/b7c19680dc2093c4df811ebb09bccbe7657679a5) - I dont know why this keeps getting reverted (July 01, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v1.10.0](https://github.com/rly0nheart/buganize/releases/tag/1.10.0) (June 16, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
