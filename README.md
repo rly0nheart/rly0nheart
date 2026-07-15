@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260714](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260714) (July 14, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260713](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260713) (July 13, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260712](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260712) (July 12, 2026)
 - **[humanly](https://github.com/rly0nheart/humanly)**: Released [v0.1.5](https://github.com/rly0nheart/humanly/releases/tag/0.1.5) (July 11, 2026)
 - **[humanly](https://github.com/rly0nheart/humanly)**: [4ec6803](https://github.com/rly0nheart/humanly/commit/4ec6803dac9d6534916d6c64cb609f7ddacdfb30) - feat: show bytes with 'b' suffix (July 11, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [a868f8f](https://github.com/rly0nheart/rly0nheart.com/commit/a868f8f555a2d575665ce24819c7c52a2f2635c9) - Make blog public (July 01, 2026)
