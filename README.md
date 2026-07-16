@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260714](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260714) (July 14, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.1-nightly.20260713](https://github.com/rly0nheart/cerium/releases/tag/v0.2.1-nightly.20260713) (July 13, 2026)
-- **[humanly](https://github.com/rly0nheart/humanly)**: Released [v0.1.5](https://github.com/rly0nheart/humanly/releases/tag/0.1.5) (July 11, 2026)
-- **[humanly](https://github.com/rly0nheart/humanly)**: [4ec6803](https://github.com/rly0nheart/humanly/commit/4ec6803dac9d6534916d6c64cb609f7ddacdfb30) - feat: show bytes with 'b' suffix (July 11, 2026)
-- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [a868f8f](https://github.com/rly0nheart/rly0nheart.com/commit/a868f8f555a2d575665ce24819c7c52a2f2635c9) - Make blog public (July 01, 2026)
+- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: Released [v0.2.2](https://github.com/rly0nheart/updates-rs/releases/tag/0.2.2) (July 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2](https://github.com/rly0nheart/cerium/releases/tag/0.2.2) (July 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [747f489](https://github.com/rly0nheart/cerium/commit/747f489043785b87fe32724bf103df8440259309) - Merge branch 'dev' (July 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [8339a9a](https://github.com/rly0nheart/cerium/commit/8339a9a0d3361066b0ec0746c5cc08177f8256d0) - chore: udpate human units dep from humanly to libhuman (July 15, 2026)
+- **[libhuman](https://github.com/rly0nheart/libhuman)**: Released [v0.2.1](https://github.com/rly0nheart/libhuman/releases/tag/0.2.1) (July 15, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
