@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260716](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260716) (July 16, 2026)
 - **[updates-rs](https://github.com/rly0nheart/updates-rs)**: Released [v0.2.2](https://github.com/rly0nheart/updates-rs/releases/tag/0.2.2) (July 15, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2](https://github.com/rly0nheart/cerium/releases/tag/0.2.2) (July 15, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [747f489](https://github.com/rly0nheart/cerium/commit/747f489043785b87fe32724bf103df8440259309) - Merge branch 'dev' (July 15, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [8339a9a](https://github.com/rly0nheart/cerium/commit/8339a9a0d3361066b0ec0746c5cc08177f8256d0) - chore: udpate human units dep from humanly to libhuman (July 15, 2026)
-- **[libhuman](https://github.com/rly0nheart/libhuman)**: Released [v0.2.1](https://github.com/rly0nheart/libhuman/releases/tag/0.2.1) (July 15, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
