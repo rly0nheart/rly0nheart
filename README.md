@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260716](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260716) (July 16, 2026)
-- **[updates-rs](https://github.com/rly0nheart/updates-rs)**: Released [v0.2.2](https://github.com/rly0nheart/updates-rs/releases/tag/0.2.2) (July 15, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2](https://github.com/rly0nheart/cerium/releases/tag/0.2.2) (July 15, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [747f489](https://github.com/rly0nheart/cerium/commit/747f489043785b87fe32724bf103df8440259309) - Merge branch 'dev' (July 15, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: [8339a9a](https://github.com/rly0nheart/cerium/commit/8339a9a0d3361066b0ec0746c5cc08177f8256d0) - chore: udpate human units dep from humanly to libhuman (July 15, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.4](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.4) (July 17, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [bb82d10](https://github.com/rly0nheart/pyahmia/commit/bb82d1079b1abd9a442197f62ae46172a63d88a0) - Update pyproject.toml (July 17, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [f9305bb](https://github.com/rly0nheart/pyahmia/commit/f9305bb6271793d6e459ca79511e139d10a7fea7) - Merge pull request 'fix(packaging): include pyahmia.src.api in the wheel' (#1) from SamAmann/pyahmia:fix/packaging-missing-api-subpackage into master (July 17, 2026)
+- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [4eceb3f](https://github.com/rly0nheart/pyahmia/commit/4eceb3f2cfd419638ee70d0e757f71a4d5017151) - Merge branch 'master' into fix/packaging-missing-api-subpackage (July 17, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260717](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260717) (July 17, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
