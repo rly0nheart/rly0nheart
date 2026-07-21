@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260720](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260720) (July 20, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260719](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260719) (July 19, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260718](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260718) (July 18, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.4](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.4) (July 17, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [bb82d10](https://github.com/rly0nheart/pyahmia/commit/bb82d1079b1abd9a442197f62ae46172a63d88a0) - Update pyproject.toml (July 17, 2026)
 - **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [f9305bb](https://github.com/rly0nheart/pyahmia/commit/f9305bb6271793d6e459ca79511e139d10a7fea7) - Merge pull request 'fix(packaging): include pyahmia.src.api in the wheel' (#1) from SamAmann/pyahmia:fix/packaging-missing-api-subpackage into master (July 17, 2026)
