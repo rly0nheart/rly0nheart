@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260723](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260723) (July 23, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260722](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260722) (July 22, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: Released [0.11.4](https://github.com/rly0nheart/pyahmia/releases/tag/0.11.4) (July 17, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [bb82d10](https://github.com/rly0nheart/pyahmia/commit/bb82d1079b1abd9a442197f62ae46172a63d88a0) - Update pyproject.toml (July 17, 2026)
-- **[pyahmia](https://github.com/rly0nheart/pyahmia)**: [f9305bb](https://github.com/rly0nheart/pyahmia/commit/f9305bb6271793d6e459ca79511e139d10a7fea7) - Merge pull request 'fix(packaging): include pyahmia.src.api in the wheel' (#1) from SamAmann/pyahmia:fix/packaging-missing-api-subpackage into master (July 17, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.0.1](https://github.com/rly0nheart/knewkarma/releases/tag/9.0.1) (July 24, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [9cfb11f](https://github.com/rly0nheart/knewkarma/commit/9cfb11f4468d5fc7031c78811cd15ac66fb3788d) - Release 9.0.1 (July 24, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [88fb683](https://github.com/rly0nheart/knewkarma/commit/88fb68318fde6068eb1d41fff76385ff273bd6b5) - fix: urls in pyproject.toml (July 24, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.0.0](https://github.com/rly0nheart/knewkarma/releases/tag/9.0.0) (July 24, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [4444652](https://github.com/rly0nheart/knewkarma/commit/4444652172f379ef5b714a7b9800f9a8fdb1668e) - Release 9.0.0 (July 24, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
