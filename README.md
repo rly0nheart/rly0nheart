@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.0.1](https://github.com/rly0nheart/knewkarma/releases/tag/9.0.1) (July 24, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [9cfb11f](https://github.com/rly0nheart/knewkarma/commit/9cfb11f4468d5fc7031c78811cd15ac66fb3788d) - Release 9.0.1 (July 24, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [88fb683](https://github.com/rly0nheart/knewkarma/commit/88fb68318fde6068eb1d41fff76385ff273bd6b5) - fix: urls in pyproject.toml (July 24, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.0.0](https://github.com/rly0nheart/knewkarma/releases/tag/9.0.0) (July 24, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [4444652](https://github.com/rly0nheart/knewkarma/commit/4444652172f379ef5b714a7b9800f9a8fdb1668e) - Release 9.0.0 (July 24, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.1.2](https://github.com/rly0nheart/knewkarma/releases/tag/9.1.2) (July 25, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [7a2a6f6](https://github.com/rly0nheart/knewkarma/commit/7a2a6f64b1ae1cd2049d8d0b66e9077626b67922) - Release 9.1.2 (July 25, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [e6a2cc7](https://github.com/rly0nheart/knewkarma/commit/e6a2cc72600dec1f528352874c4350793b093a21) - fix(package): fix failed upload of pypi package (July 25, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.1.1](https://github.com/rly0nheart/knewkarma/releases/tag/9.1.1) (July 25, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [ddff015](https://github.com/rly0nheart/knewkarma/commit/ddff015aecbcd52132a51ce5d6a1acc07112cf0d) - Release 9.1.1 (July 25, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
