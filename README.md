@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.1.2](https://github.com/rly0nheart/knewkarma/releases/tag/9.1.2) (July 25, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [7a2a6f6](https://github.com/rly0nheart/knewkarma/commit/7a2a6f64b1ae1cd2049d8d0b66e9077626b67922) - Release 9.1.2 (July 25, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [e6a2cc7](https://github.com/rly0nheart/knewkarma/commit/e6a2cc72600dec1f528352874c4350793b093a21) - fix(package): fix failed upload of pypi package (July 25, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [9.1.1](https://github.com/rly0nheart/knewkarma/releases/tag/9.1.1) (July 25, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [ddff015](https://github.com/rly0nheart/knewkarma/commit/ddff015aecbcd52132a51ce5d6a1acc07112cf0d) - Release 9.1.1 (July 25, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.0.0](https://github.com/rly0nheart/buganize/releases/tag/2.0.0) (July 26, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [c14f2a7](https://github.com/rly0nheart/buganize/commit/c14f2a7935a8462384a2f489a620d8e5c09a0a6e) - feat: selft-exporting dataclasses, drop --fields/--all-fields options from cli (July 26, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [10.0.0](https://github.com/rly0nheart/knewkarma/releases/tag/10.0.0) (July 26, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260726](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260726) (July 26, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [58bb79b](https://github.com/rly0nheart/knewkarma/commit/58bb79ba1d3519f49d2edf3fdde821d37626a116) - Release 10.0.0 (July 26, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
