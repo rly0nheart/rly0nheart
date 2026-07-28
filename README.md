@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260727](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260727) (July 27, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.0.0](https://github.com/rly0nheart/buganize/releases/tag/2.0.0) (July 26, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [c14f2a7](https://github.com/rly0nheart/buganize/commit/c14f2a7935a8462384a2f489a620d8e5c09a0a6e) - feat: selft-exporting dataclasses, drop --fields/--all-fields options from cli (July 26, 2026)
 - **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [10.0.0](https://github.com/rly0nheart/knewkarma/releases/tag/10.0.0) (July 26, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260726](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260726) (July 26, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [58bb79b](https://github.com/rly0nheart/knewkarma/commit/58bb79ba1d3519f49d2edf3fdde821d37626a116) - Release 10.0.0 (July 26, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
