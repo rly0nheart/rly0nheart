@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260804](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260804) (August 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260803](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260803) (August 03, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.0.0](https://github.com/rly0nheart/buganize/releases/tag/2.0.0) (July 26, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [c14f2a7](https://github.com/rly0nheart/buganize/commit/c14f2a7935a8462384a2f489a620d8e5c09a0a6e) - feat: selft-exporting dataclasses, drop --fields/--all-fields options from cli (July 26, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [10.0.0](https://github.com/rly0nheart/knewkarma/releases/tag/10.0.0) (July 26, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.1.1](https://github.com/rly0nheart/buganize/releases/tag/2.1.1) (August 05, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [eb30612](https://github.com/rly0nheart/buganize/commit/eb306128cdb11f9438ff28b83dba72ef28a87bcb) - Merge pull request #5 from rly0nheart/dev (August 05, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [3bd0858](https://github.com/rly0nheart/buganize/commit/3bd08586da59b0952191982a47ed635c7925f17b) - Merge branch 'master' into dev (August 05, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [ae7e165](https://github.com/rly0nheart/buganize/commit/ae7e1650deb91b192922ce94bc5b5a2fb4068138) - chore: gate pull requests on tests, add CONTRIBUTING.md (August 05, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.1.0](https://github.com/rly0nheart/buganize/releases/tag/2.1.0) (August 05, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
