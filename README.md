@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260808](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260808) (August 08, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260807](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260807) (August 07, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260806](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260806) (August 06, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.1.1](https://github.com/rly0nheart/buganize/releases/tag/2.1.1) (August 05, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [eb30612](https://github.com/rly0nheart/buganize/commit/eb306128cdb11f9438ff28b83dba72ef28a87bcb) - Merge pull request #5 from rly0nheart/dev (August 05, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [3bd0858](https://github.com/rly0nheart/buganize/commit/3bd08586da59b0952191982a47ed635c7925f17b) - Merge branch 'master' into dev (August 05, 2026)
