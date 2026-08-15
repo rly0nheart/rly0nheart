@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260813](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260813) (August 13, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.2.2-nightly.20260812](https://github.com/rly0nheart/cerium/releases/tag/v0.2.2-nightly.20260812) (August 12, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.1.1](https://github.com/rly0nheart/buganize/releases/tag/2.1.1) (August 05, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [eb30612](https://github.com/rly0nheart/buganize/commit/eb306128cdb11f9438ff28b83dba72ef28a87bcb) - Merge pull request #5 from rly0nheart/dev (August 05, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [3bd0858](https://github.com/rly0nheart/buganize/commit/3bd08586da59b0952191982a47ed635c7925f17b) - Merge branch 'master' into dev (August 05, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1](https://github.com/rly0nheart/cerium/releases/tag/0.4.1) (August 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [d8dc639](https://github.com/rly0nheart/cerium/commit/d8dc639f1ef84b65c50d1d7191a3aac444fd9bc4) - release: release version 0.4.1 (August 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.0](https://github.com/rly0nheart/cerium/releases/tag/0.4.0) (August 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [55b65a4](https://github.com/rly0nheart/cerium/commit/55b65a4c976677978355ceba38004693e94a6cbb) - release: release version 0.4.0 (August 15, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: [ac2d5e7](https://github.com/rly0nheart/cerium/commit/ac2d5e77d46a54491bd4c33f2c1c5e6c52f2ffde) - chore(readme): minor update to readme (August 14, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
