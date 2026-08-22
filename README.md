@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260821](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260821) (August 21, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260820](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260820) (August 20, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260819](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260819) (August 19, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1](https://github.com/rly0nheart/cerium/releases/tag/0.4.1) (August 15, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [d8dc639](https://github.com/rly0nheart/cerium/commit/d8dc639f1ef84b65c50d1d7191a3aac444fd9bc4) - release: release version 0.4.1 (August 15, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: [55b65a4](https://github.com/rly0nheart/cerium/commit/55b65a4c976677978355ceba38004693e94a6cbb) - release: release version 0.4.0 (August 15, 2026)
