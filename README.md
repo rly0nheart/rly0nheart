@@ -29,5 +29,5 @@
 | [searchcode-python](https://github.com/rly0nheart/searchcode-python)<br/> Python SDK and CLI utility for searchcode.com.                                           |
 | [cerium](https://github.com/rly0nheart/cerium) <br/> A lighter way to list files and directories.                                                                  |
 | [actual](https://github.com/rly0nheart/actual) <br/> File carving tool for forensic image recovery.                                                                |
-| [humanly](https://github.com/rly0nheart/libhuman) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. |
-| [updates-rs](https://github.com/rly0nheart/updates-checker/) <br/> A Rust library that checks for crate updates.                                                        |
+| [libhuman](https://github.com/rly0nheart/libhuman) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. |
+| [updates-checker](https://github.com/rly0nheart/updates-checker/) <br/> A Rust library that checks for crate updates.                                                        |
