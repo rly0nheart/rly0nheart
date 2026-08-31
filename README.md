@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260830](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260830) (August 30, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260829](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260829) (August 29, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260828](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260828) (August 28, 2026)
 - **[update-checker](https://github.com/rly0nheart/update-checker)**: Released [v0.2.3](https://github.com/rly0nheart/update-checker/releases/tag/0.2.3) (August 22, 2026)
 - **[update-checker](https://github.com/rly0nheart/update-checker)**: [bd4fda5](https://github.com/rly0nheart/update-checker/commit/bd4fda50e37d3d8ce4519c7844394f2e24448240) - refactor: drop regex and libhuman, fix cache that never saved (August 22, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1](https://github.com/rly0nheart/cerium/releases/tag/0.4.1) (August 15, 2026)
