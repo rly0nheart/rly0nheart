@@ -11,10 +11,10 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260915](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260915) (September 15, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [0206909](https://github.com/rly0nheart/rly0nheart.com/commit/02069092361b74e54f190a0ca02bc140e87eeac1) - Update appearance (September 15, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [a1d6e9a](https://github.com/rly0nheart/rly0nheart.com/commit/a1d6e9ab6bb3e57a4f56d3d7982c76049bc16e33) - Redesign blog with a custom neobrutalist layout (September 14, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260914](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260914) (September 14, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260913](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260913) (September 13, 2026)
 - **[update-checker](https://github.com/rly0nheart/update-checker)**: Released [v0.2.3](https://github.com/rly0nheart/update-checker/releases/tag/0.2.3) (August 22, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
