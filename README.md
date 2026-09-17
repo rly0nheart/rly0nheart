@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [65ab6e2](https://github.com/rly0nheart/rly0nheart.com/commit/65ab6e2f1dfe04f3752a6c6cf968e95d7d69f254) - Show admonitions in posts cards on the Home tab (September 16, 2026)
+- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [f01742d](https://github.com/rly0nheart/rly0nheart.com/commit/f01742d88466e74e80f5d91d30148d1c880c032c) - Add some border radii (September 16, 2026)
+- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [9bd6890](https://github.com/rly0nheart/rly0nheart.com/commit/9bd68905acca4762f65f04d7e68a981e146fa26d) - Update header layout in mobile view (September 16, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260916](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260916) (September 16, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260915](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260915) (September 15, 2026)
-- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [0206909](https://github.com/rly0nheart/rly0nheart.com/commit/02069092361b74e54f190a0ca02bc140e87eeac1) - Update appearance (September 15, 2026)
-- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [a1d6e9a](https://github.com/rly0nheart/rly0nheart.com/commit/a1d6e9ab6bb3e57a4f56d3d7982c76049bc16e33) - Redesign blog with a custom neobrutalist layout (September 14, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260914](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260914) (September 14, 2026)
-- **[update-checker](https://github.com/rly0nheart/update-checker)**: Released [v0.2.3](https://github.com/rly0nheart/update-checker/releases/tag/0.2.3) (August 22, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
