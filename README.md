@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260921](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260921) (September 21, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260920](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260920) (September 20, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260919](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260919) (September 19, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [934363b](https://github.com/rly0nheart/rly0nheart.com/commit/934363be65a0991960429b802489fccf21182f35) - Remove the radii (September 17, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [65ab6e2](https://github.com/rly0nheart/rly0nheart.com/commit/65ab6e2f1dfe04f3752a6c6cf968e95d7d69f254) - Show admonitions in posts cards on the Home tab (September 16, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [f01742d](https://github.com/rly0nheart/rly0nheart.com/commit/f01742d88466e74e80f5d91d30148d1c880c032c) - Add some border radii (September 16, 2026)
