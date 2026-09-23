@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260921](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260921) (September 21, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260920](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260920) (September 20, 2026)
-- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [934363b](https://github.com/rly0nheart/rly0nheart.com/commit/934363be65a0991960429b802489fccf21182f35) - Remove the radii (September 17, 2026)
-- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [65ab6e2](https://github.com/rly0nheart/rly0nheart.com/commit/65ab6e2f1dfe04f3752a6c6cf968e95d7d69f254) - Show admonitions in posts cards on the Home tab (September 16, 2026)
-- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [f01742d](https://github.com/rly0nheart/rly0nheart.com/commit/f01742d88466e74e80f5d91d30148d1c880c032c) - Add some border radii (September 16, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [10.0.1](https://github.com/rly0nheart/knewkarma/releases/tag/10.0.1) (September 22, 2026)
+- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [9a4f96d](https://github.com/rly0nheart/knewkarma/commit/9a4f96d7c5195ed276b646d563b80c2874d5dd93) - Update docs (September 22, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.2.1](https://github.com/rly0nheart/buganize/releases/tag/2.2.1) (September 22, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [b3ed8ad](https://github.com/rly0nheart/buganize/commit/b3ed8ad9167f19e913ee6c077e1897651887c6ae) - Merge pull request #7 from rly0nheart/dev (September 22, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [d99d4db](https://github.com/rly0nheart/buganize/commit/d99d4db43e4bd3189175295036fee5c39fa2ef87) - Merge branch 'master' into dev (September 22, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
