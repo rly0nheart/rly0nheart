@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: Released [10.0.1](https://github.com/rly0nheart/knewkarma/releases/tag/10.0.1) (September 22, 2026)
-- **[knewkarma](https://github.com/rly0nheart/knewkarma)**: [9a4f96d](https://github.com/rly0nheart/knewkarma/commit/9a4f96d7c5195ed276b646d563b80c2874d5dd93) - Update docs (September 22, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.2.1](https://github.com/rly0nheart/buganize/releases/tag/2.2.1) (September 22, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [b3ed8ad](https://github.com/rly0nheart/buganize/commit/b3ed8ad9167f19e913ee6c077e1897651887c6ae) - Merge pull request #7 from rly0nheart/dev (September 22, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [d99d4db](https://github.com/rly0nheart/buganize/commit/d99d4db43e4bd3189175295036fee5c39fa2ef87) - Merge branch 'master' into dev (September 22, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.3.0](https://github.com/rly0nheart/buganize/releases/tag/2.3.0) (September 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [5bb853a](https://github.com/rly0nheart/buganize/commit/5bb853a165a41c7adb20734ae2969a04903191f0) - Merge pull request #8 from rly0nheart/dev (September 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [0edb846](https://github.com/rly0nheart/buganize/commit/0edb84693954779c84fb00eaeab0dea7f1464be6) - Merge branch 'master' into dev (September 23, 2026)
+- **[buganize](https://github.com/rly0nheart/buganize)**: [43e4d2d](https://github.com/rly0nheart/buganize/commit/43e4d2d564d51a97fad2ccaef3f35e45066a85f8) - feat(cli): show search and issues results as a table (September 23, 2026)
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260923](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260923) (September 23, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
