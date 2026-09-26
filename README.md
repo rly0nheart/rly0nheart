@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260925](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260925) (September 25, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260924](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260924) (September 24, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.3.0](https://github.com/rly0nheart/buganize/releases/tag/2.3.0) (September 23, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [5bb853a](https://github.com/rly0nheart/buganize/commit/5bb853a165a41c7adb20734ae2969a04903191f0) - Merge pull request #8 from rly0nheart/dev (September 23, 2026)
 - **[buganize](https://github.com/rly0nheart/buganize)**: [0edb846](https://github.com/rly0nheart/buganize/commit/0edb84693954779c84fb00eaeab0dea7f1464be6) - Merge branch 'master' into dev (September 23, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [43e4d2d](https://github.com/rly0nheart/buganize/commit/43e4d2d564d51a97fad2ccaef3f35e45066a85f8) - feat(cli): show search and issues results as a table (September 23, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
