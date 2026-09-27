@@ -22,7 +22,7 @@
 
 | Project                                                                                                                                                            |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [buganize](https://github.com/rly0nheart/buganize) <br/> Python client for the Google Issue Tracking system (Buganizer).                                           |
+| [buganize](https://github.com/rly0nheart/bugpipe) <br/> Unofficial Python client for Buganizer; the Google Issue Tracking system.                                           |
 | [pyahmia](https://github.com/rly0nheart/pyahmia) <br/> Search hidden services on the Tor network.                                                                  |
 | [knewkarma](https://github.com/rly0nheart/knewkarma) <br/> Zero-auth toolkit for Reddit data analysis.                                                             |
 | [octosuite](https://github.com/bellingcat/octosuite) <br/> Terminal-based toolkit for GitHub data analysis.                                                        |
