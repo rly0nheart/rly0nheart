@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260926](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260926) (September 26, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20260925](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20260925) (September 25, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: Released [v2.3.0](https://github.com/rly0nheart/buganize/releases/tag/2.3.0) (September 23, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [5bb853a](https://github.com/rly0nheart/buganize/commit/5bb853a165a41c7adb20734ae2969a04903191f0) - Merge pull request #8 from rly0nheart/dev (September 23, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [0edb846](https://github.com/rly0nheart/buganize/commit/0edb84693954779c84fb00eaeab0dea7f1464be6) - Merge branch 'master' into dev (September 23, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: Released [v3.0.2](https://github.com/rly0nheart/bugpipe/releases/tag/3.0.2) (September 27, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: [38cf9f2](https://github.com/rly0nheart/bugpipe/commit/38cf9f20b6c0e56b1272bc4c9d5af3d2cabd3c1f) - chore: minor update in update checker (September 27, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: Released [v3.0.1](https://github.com/rly0nheart/bugpipe/releases/tag/3.0.1) (September 27, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: [9b4eaa4](https://github.com/rly0nheart/bugpipe/commit/9b4eaa412d8d13fa73a9dc0281eccecb4c4dbb70) - chore: prepare for release (September 27, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: [3edd73b](https://github.com/rly0nheart/bugpipe/commit/3edd73be51e44e93c0809508ae8c493d46465ea4) - chore(docs): update docs (September 27, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
