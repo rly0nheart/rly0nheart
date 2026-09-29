@@ -11,11 +11,11 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[buganize](https://github.com/rly0nheart/buganize)**: [88af14d](https://github.com/rly0nheart/buganize/commit/88af14d79161a53e32896c7d29fd051c6eae6f24) - Revise README for Buganize to Bugpipe migration (September 27, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [016dd5d](https://github.com/rly0nheart/buganize/commit/016dd5dd790e2b51b3eb62412f6fad6c82dfe79c) - Revise README for Bugpipe migration details (September 27, 2026)
-- **[buganize](https://github.com/rly0nheart/buganize)**: [6c185d3](https://github.com/rly0nheart/buganize/commit/6c185d3a0265e98c45b45d14a9269f49889ec6e2) - Initial commit (September 27, 2026)
-- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: Released [v3.0.2](https://github.com/rly0nheart/bugpipe/releases/tag/3.0.2) (September 27, 2026)
-- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: [38cf9f2](https://github.com/rly0nheart/bugpipe/commit/38cf9f20b6c0e56b1272bc4c9d5af3d2cabd3c1f) - chore: minor update in update checker (September 27, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: Released [v3.1.1](https://github.com/rly0nheart/bugpipe/releases/tag/3.1.1) (September 28, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: [ec4be83](https://github.com/rly0nheart/bugpipe/commit/ec4be83d8f37a4cfbc451e82ce2c2a193098aa82) - chore: minor typo fix in commands.py (September 28, 2026)
+- **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [bde24f2](https://github.com/rly0nheart/rly0nheart.com/commit/bde24f296cc049280d5331c4b0f21c215cdf373e) - update projects (September 28, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: Released [v3.1.0](https://github.com/rly0nheart/bugpipe/releases/tag/3.1.0) (September 28, 2026)
+- **[bugpipe](https://github.com/rly0nheart/bugpipe)**: [46b5c4c](https://github.com/rly0nheart/bugpipe/commit/46b5c4c70655c71288431bf49f741a2abd2e342d) - chore(docs): update readme (September 28, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Projects Showcase
