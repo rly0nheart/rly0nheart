@@ -11,8 +11,8 @@
 ## Recent Activity
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20261005](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20261005) (October 05, 2026)
 - **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20261004](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20261004) (October 04, 2026)
-- **[cerium](https://github.com/rly0nheart/cerium)**: Released [v0.4.1-nightly.20261003](https://github.com/rly0nheart/cerium/releases/tag/v0.4.1-nightly.20261003) (October 03, 2026)
 - **[bugpipe](https://github.com/rly0nheart/bugpipe)**: Released [v3.1.1](https://github.com/rly0nheart/bugpipe/releases/tag/3.1.1) (September 28, 2026)
 - **[bugpipe](https://github.com/rly0nheart/bugpipe)**: [ec4be83](https://github.com/rly0nheart/bugpipe/commit/ec4be83d8f37a4cfbc451e82ce2c2a193098aa82) - chore: minor typo fix in commands.py (September 28, 2026)
 - **[rly0nheart.com](https://github.com/rly0nheart/rly0nheart.com)**: [bde24f2](https://github.com/rly0nheart/rly0nheart.com/commit/bde24f296cc049280d5331c4b0f21c215cdf373e) - update projects (September 28, 2026)
