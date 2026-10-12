@@ -26,8 +26,5 @@
 | [pyahmia](https://github.com/rly0nheart/pyahmia) <br/> Search hidden services on the Tor network.                                                                  |
 | [knewkarma](https://github.com/rly0nheart/knewkarma) <br/> Zero-auth toolkit for Reddit data analysis.                                                             |
 | [octosuite](https://github.com/bellingcat/octosuite) <br/> Terminal-based toolkit for GitHub data analysis.                                                        |
-| [searchcode-python](https://github.com/rly0nheart/searchcode-python)<br/> Python SDK and CLI utility for searchcode.com.                                           |
-| [cerium](https://github.com/rly0nheart/cerium) <br/> A lighter way to list files and directories.                                                                  |
-| [actual](https://github.com/rly0nheart/actual) <br/> File carving tool for forensic image recovery.                                                                |
 | [libhuman](https://github.com/rly0nheart/libhuman) <br/> A pure Rust crate to convert numbers, sizes, durations, times, and percentages into human-readable formats. |
 | [updates-checker](https://github.com/rly0nheart/updates-checker/) <br/> A Rust library that checks for crate updates.                                                        |
